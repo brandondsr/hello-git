@@ -1,2 +1,2 @@
-print("Saludando a los panitas!")
+print("Saludando a los panitas! v2.0")
 
