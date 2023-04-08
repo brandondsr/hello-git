@@ -5,4 +5,4 @@ for n in nums:
     print(n)
 
 
-print("Qué bendición ve V1")
+print("Qué bendición ve v1.0")
